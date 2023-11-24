@@ -13,10 +13,10 @@ function About() {
                 <i className="fa fa-times" ></i>
                 <ul>
                     <li><Link href="/">Home</Link></li>
-                    <li><Link href="/course.html">Course</Link></li>
-                    <li><Link href="/blog.html">Blog</Link></li>
+                    <li><Link href="/course">Course</Link></li>
+                    <li><Link href="/blog">Blog</Link></li>
                    <li> <Link href="/about">About</Link></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <li><Link href="/contact">Contact</Link></li>
                 </ul>
             </div>
             <i className="fa fa-bars"></i>
