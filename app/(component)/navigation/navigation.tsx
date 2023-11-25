@@ -31,7 +31,6 @@ import Link from 'next/link';
               </ul>
           </div>
            <i className="fa fa-bars" onClick={toggleMenu}></i>
-           <button id='navLinks' onClick={toggleMenu}> hit</button> 
           {/* <!-- reposnive bar open and close --> */}
       </nav>
        )}
